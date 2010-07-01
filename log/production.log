@@ -1,0 +1,60 @@
+# Logfile created on Thu Jul 01 19:05:07 +0000 2010
+
+Processing SiteController#show_page (for 192.168.254.20 at 2010-07-01 19:06:37) [GET]
+  Parameters: {"action"=>"show_page", "url"=>"/", "controller"=>"site"}
+Completed in 706ms (DB: 42) | 200 [http://192.168.254.92/]
+
+
+Processing SiteController#show_page (for 192.168.254.20 at 2010-07-01 19:06:38) [GET]
+  Parameters: {"action"=>"show_page", "url"=>["reset.css"], "controller"=>"site"}
+Completed in 109ms (DB: 16) | 200 [http://192.168.254.92/reset.css]
+
+
+Processing SiteController#show_page (for 192.168.254.20 at 2010-07-01 19:06:38) [GET]
+  Parameters: {"action"=>"show_page", "url"=>["styles.css"], "controller"=>"site"}
+Completed in 344ms (DB: 20) | 200 [http://192.168.254.92/styles.css]
+
+
+Processing SiteController#show_page (for 192.168.254.20 at 2010-07-01 19:47:26) [GET]
+  Parameters: {"action"=>"show_page", "url"=>["news", "2008", "12", "23", "the-finest-grind"], "controller"=>"site"}
+Completed in 545ms (DB: 41) | 200 [http://192.168.254.92/news/2008/12/23/the-finest-grind/]
+
+
+Processing SiteController#show_page (for 192.168.254.20 at 2010-07-01 19:47:26) [GET]
+  Parameters: {"action"=>"show_page", "url"=>["reset.css"], "controller"=>"site"}
+Completed in 217ms (DB: 27) | 200 [http://192.168.254.92/reset.css]
+
+
+Processing SiteController#show_page (for 192.168.254.20 at 2010-07-01 19:47:27) [GET]
+  Parameters: {"action"=>"show_page", "url"=>["styles.css"], "controller"=>"site"}
+Completed in 322ms (DB: 19) | 200 [http://192.168.254.92/styles.css]
+
+
+Processing SiteController#show_page (for 192.168.254.20 at 2010-07-01 20:34:49) [GET]
+  Parameters: {"action"=>"show_page", "url"=>"/", "controller"=>"site"}
+Completed in 663ms (DB: 44) | 200 [http://192.168.254.92/]
+
+
+Processing SiteController#show_page (for 192.168.254.20 at 2010-07-01 20:34:50) [GET]
+  Parameters: {"action"=>"show_page", "url"=>["reset.css"], "controller"=>"site"}
+Completed in 114ms (DB: 22) | 200 [http://192.168.254.92/reset.css]
+
+
+Processing SiteController#show_page (for 192.168.254.20 at 2010-07-01 20:34:50) [GET]
+  Parameters: {"action"=>"show_page", "url"=>["styles.css"], "controller"=>"site"}
+Completed in 342ms (DB: 21) | 200 [http://192.168.254.92/styles.css]
+
+
+Processing SiteController#show_page (for 192.168.254.20 at 2010-07-01 20:47:42) [GET]
+  Parameters: {"action"=>"show_page", "url"=>"/", "controller"=>"site"}
+Completed in 677ms (DB: 44) | 200 [http://192.168.254.92/]
+
+
+Processing SiteController#show_page (for 192.168.254.20 at 2010-07-01 20:47:43) [GET]
+  Parameters: {"action"=>"show_page", "url"=>["reset.css"], "controller"=>"site"}
+Completed in 204ms (DB: 19) | 200 [http://192.168.254.92/reset.css]
+
+
+Processing SiteController#show_page (for 192.168.254.20 at 2010-07-01 20:47:43) [GET]
+  Parameters: {"action"=>"show_page", "url"=>["styles.css"], "controller"=>"site"}
+Completed in 315ms (DB: 21) | 200 [http://192.168.254.92/styles.css]
