@@ -1,4 +1,5 @@
 rails --version 2.3.8
+radiant
 rdiscount
 RedCloth
 will_paginate --version '~> 2.3.11'
